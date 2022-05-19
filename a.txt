@@ -1,1 +1,2 @@
 hoc smartgit
+chinh sua file
